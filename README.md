@@ -10,10 +10,10 @@
 
 <!-- Logos -->
 <a href="https://msvglobaltech.vercel.app">
-  <img src="logo1.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Shield Logo"/>
+  <img src="MSV.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Shield Logo"/>
 </a>
 <a href="https://youtube.com/@msvglobaltech?si=OUljfeSPvkhcJMXt">
-  <img src="logo2.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Neon Text Logo"/>
+  <img src="favicon.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Neon Text Logo"/>
 </a>
 
 <br/><br/>
