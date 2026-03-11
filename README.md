@@ -19,22 +19,12 @@
 <br/><br/> -->
 
 <!-- Core Identity Badges -->
-![MSV Global Tech](https://img.shields.io/badge/MSV%20Global%20Tech-AI%20%7C%20Web%20%7C%20Mobile-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
-![AI Powered](https://img.shields.io/badge/Next--Gen-AI%20Powered-a855f7?style=for-the-badge&logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)
-[![Website](https://img.shields.io/badge/Website-Live-4f46e5?style=for-the-badge&logo=vercel&logoColor=white)](https://msvglobaltech.vercel.app)
-
-</div>
-
----
 
 ## 🏢 About MSV Global Tech
 
 **MSV Global Tech** is a technology and digital media firm. We bridge the gap between advanced software engineering and modern content creation. 
 
 Our primary focus is on delivering high-performance Web and Mobile applications powered by **Next-Generation AI**, while simultaneously helping brands scale through professional digital content.
-
----
 
 ## 💡 Core Expertise
 
@@ -43,16 +33,11 @@ Our primary focus is on delivering high-performance Web and Mobile applications 
 - **📱 Mobile Apps:** Premium cross-platform iOS and Android applications.
 - **🎬 Digital Content:** High-retention professional video editing and brand design.
 
----
-
-
 ## 🎯 Our Mission
 
 > To empower startups, creators, and businesses by combining advanced technology, smart design, and engaging digital content that drives growth and innovation.
 >
 > **📈 Technology • Creativity • Innovation**
-
----
 
 ## 🌐 Find Us Online
 
@@ -110,8 +95,6 @@ Our primary focus is on delivering high-performance Web and Mobile applications 
 > 📩 Reach out through our [website](https://msvglobaltech.vercel.app) or [email us](mailto:msvglobaltech@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
