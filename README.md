@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,60:2d1264,100:0f0c29&height=240&section=header&text=MSV%20Global%20Tech&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Engineering%20the%20Future%20with%20AI&descAlignY=62&descSize=22&descColor=c084fc&animation=fadeIn" width="100%" alt="MSV Global Tech Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:1a0533,60:2d1264,100:0f0c29&height=240&section=header&text=MSV%20Global%20Tech&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Engineering%20the%20Future%20with%20AI&descAlignY=62&descSize=22&descColor=c084fc&animation=fadeIn" width="80%" alt="MSV Global Tech Banner"/>
 
 <!-- Live Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=🤖+Next-Gen+AI+Development;🌐+Modern+Web+Development;📱+Native+Mobile+App+Development;🎬+Professional+Video+Editing;🎨+High-CTR+Thumbnail+Design;📈+Technology+•+Creativity+•+Innovation)](https://git.io/typing-svg)
@@ -9,14 +9,14 @@
 <br/>
 
 <!-- Logos -->
-<a href="https://msvglobaltech.vercel.app">
+<!-- <a href="https://msvglobaltech.vercel.app">
   <img src="MSV.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Shield Logo"/>
 </a>
 <a href="https://youtube.com/@msvglobaltech?si=OUljfeSPvkhcJMXt">
   <img src="favicon.png" width="160" style="border-radius: 20px; margin: 0 10px;" alt="MSV Global Tech Neon Text Logo"/>
 </a>
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- Core Identity Badges -->
 ![MSV Global Tech](https://img.shields.io/badge/MSV%20Global%20Tech-AI%20%7C%20Web%20%7C%20Mobile-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)
@@ -116,7 +116,7 @@ Our primary focus is on delivering high-performance Web and Mobile applications 
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1264,100:1a0533&height=140&section=footer&text=MSV%20Global%20Tech%20%C2%A9%202025&fontSize=20&fontColor=c084fc&fontAlignY=70" width="100%" alt="MSV Global Tech Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1264,100:1a0533&height=140&section=footer&text=MSV%20Global%20Tech%20%C2%A9%202025&fontSize=20&fontColor=c084fc&fontAlignY=70" width="80%" alt="MSV Global Tech Footer"/>
 
 <sub>⭐ If you find our work valuable, consider starring our repos and following us!</sub>
 
